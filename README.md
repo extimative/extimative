@@ -1,7 +1,7 @@
 #                                                                    *Slow*
 
 <p align="center">
-<a href="https://twitter.com/extimative" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Slow" height="20" width="20" /></a>
+<a href="https://twitter.com/extimativa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Slow" height="20" width="20" /></a>
 <a href="https://steamcommunity.com/id/extimative/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="Slow" height="20" width="20" /></a>
 </p>
 
