@@ -23,7 +23,7 @@
 
 **Software development**
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/extimative "Visual Studio")](https://github.com/Cmmdx0)
-[![GitHub](https://simpleicons.org/icons/github.svg)
+[![GitHub](https://img.shields.io/badge/-007ACC?style=flat&logo=GitHub-Code&logoColor=white&link=https://github.com/extimative "GitHub")](https://github.com/Cmmdx0)
 
 
 #                                                                    *STATS*
