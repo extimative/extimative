@@ -12,7 +12,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
 
 
-#                                                                    *Tools*
+#                                                                    *Languages and tools*
+
+**Python**:
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Beutrano/Python)](https://github.com/https://github.com/extimative/Python)
 
 
 ### Tools
