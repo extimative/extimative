@@ -9,7 +9,7 @@
 
 <p align="center">Hello, my name is Slow, I am 15 years old and I am currently living in Portugal. 
   I just program for hobbie</p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
 
 
 #                                                                    *Languages and tools*
