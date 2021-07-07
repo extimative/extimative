@@ -7,9 +7,10 @@
 
 <img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
+
 <p align="center">Hello, my name is Slow, I am 15 years old and I am currently living in Portugal. 
   I just program for hobbie</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
 
 
 #                                                                    *Languages and tools*
