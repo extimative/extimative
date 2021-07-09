@@ -5,7 +5,7 @@
 <a href="https://steamcommunity.com/id/extimative/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="Slow" height="20" width="20" /></a>
 </p>
 
-<img align="right" alt="GIF" height="250" width="250"  src="https://www.pikpng.com/pngl/b/198-1987903_computer-overlays-vaporwave-aesthetic-tabs-aesthetic-computer-window.png" />
+<img align="right" alt="GIF" height="250" width="250"  src="https://camo.githubusercontent.com/346320a250361c14d0d098f292c9227bdf63eb14cbe7cfaf8eef08e985cf76c8/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3738343739343037343533313336343839342f3738353034303839343537383738363330342f65363035626666343634376131333366313730343433333563376662646430322e676966" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=extimative" alt="maykbrito" /> </p>
 
